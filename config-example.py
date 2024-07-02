@@ -1,0 +1,9 @@
+TOKEN = "77777777:AAaaaaaaaaaaaaaBB"
+chat_id = -10056465456464
+bot_name = '@yourbot'
+admin_id = 1463411453
+main_link = "https://t.me/+linkDg6"
+api_id = 1111111
+api_hash = "31313131313asdfasdfaeb"
+support_bot = "https://t.me/linktosupbot"
+join_request = False
